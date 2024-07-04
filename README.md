@@ -1,6 +1,6 @@
 ## AtCoder Training
 
-#### Every week I did an hour AtCoder test in Python, this repo contains the code in wrote in Python, and for each week you have the contests corresponding here :
+#### Every week I did an hour AtCoder contest in Python, this repo contains the code in wrote in Python, and for each week you have the contests corresponding here :
 
 
 - [test_1](https://atcoder.jp/contests/adt_medium_20240509_2)
