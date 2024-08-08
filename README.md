@@ -15,4 +15,3 @@
 - [test_A](https://atcoder.jp/contests/adt_medium_20240711_2)
 - [test_B](https://atcoder.jp/contests/adt_medium_20240718_2)
 - [test_C](https://atcoder.jp/contests/adt_medium_20240725_2)
-- [test_D](https://atcoder.jp/contests/adt_medium_20240801_2)
