@@ -1,5 +1,11 @@
 def main():
-    N = int(input())
+    S = input()
+    T = input()
+    
+    if T in S:
+        print("Yes")
+    else:
+        print("No")
     
 
 if __name__ == '__main__':
